@@ -89,11 +89,10 @@ theme: moody
 exclude_generator:
 
 # Deployment
-## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type: github
+  type: git
   repo: git@github.com:owenyang0/owenyang0.github.io.git
-  # branch: master
+  branch: master
   # message: [message]
 
 backup:
