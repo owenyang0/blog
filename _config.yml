@@ -99,3 +99,9 @@ backup:
   type: git
   repository:
      github: git@github.com:owenyang0/blog.git,master
+
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
