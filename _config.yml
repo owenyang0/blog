@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: OwenYang'S IDEAS
-subtitle:
+title: OwenYang'S
+subtitle: OwenYang's Perspective
 description: Each step should be recorded for the future.
 author: Owen Yang
 email: usay@outlook.com
@@ -14,7 +14,7 @@ keywords:
   code,
   personal opinion,
   OwenYang ideas
-language:
+language: en
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -85,7 +85,7 @@ disqus_shortname: owenyang
 # Extensions
 ## Plugins: https://github.com/hexojs/hexo/wiki/Plugins
 ## Themes: https://github.com/hexojs/hexo/wiki/Themes
-theme: moody
+theme: maupassant
 exclude_generator:
 
 # Deployment
