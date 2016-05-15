@@ -17,8 +17,9 @@ ThoughtWorks前端开发工程师，关注前端架构演进与其生态发展�
 - 2015，<span style="color: gray;">主持</span> [OPEN PARTY 前端专场 | ThoughtWorks](https://mp.weixin.qq.com/s?__biz=MjM5MjY3OTgwMA==&mid=209173393&idx=3&sn=649dac0dc2e8a5f50297c50a93b27de2)
 
 **内部活动与分享**
+- 2016，<span style="color: gray;">分享</span> [Webpack 101](http://www.slideshare.net/SongYANG4/webpack101)
 - 2016，<span style="color: gray;">分享</span> [JavaScript异步生存指南](http://slides.com/owenyang0/async#/)
 - 2015，<span style="color: gray;">分享</span> [FUNCTIONAL PROGRAMMING IN JAVASCRIPT](http://owenyang0.github.io/2015/04/12/functional-programming-in-javascript)
 - 2015，<span style="color: gray;">分享</span> [OVERVIEW OF ES6](http://owenyang0.github.io/2015/05/31/Overview-of-ES6)
 - 2015，<span style="color: gray;">分享</span> Agile Software Development | Embrace Changes
-- 2015，<span style="color: gray;">分享</span> [ReactJS 101](http://owenyang0.github.io/2015/04/12/functional-programming-in-javascript)
+- 2015，<span style="color: gray;">分享</span> [ReactJS 101](http://www.slideshare.net/SongYANG4/react-js101)
