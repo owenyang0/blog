@@ -12,7 +12,7 @@ ThoughtWorks前端开发工程师，关注前端架构演进与其生态发展�
 
 **近期活动**
 - <span style="color: gray;">翻译</span> [MaintainableCSS | 编写可维护CSS](http://owenyang0.github.io/maintainablecss-cn/)
-- <span style="color: gray;">阅读</span> [年度阅读计划](http://owenyang0.github.io/book-worm/)
+- <span style="color: gray;">阅读</span> [豆瓣阅读 | 年度阅读计划](http://owenyang0.github.io/book-worm/)
 
 **外部活动与分享**
 - 2015，<span style="color: gray;">主持</span> [OPEN PARTY 前端专场 | ThoughtWorks](https://mp.weixin.qq.com/s?__biz=MjM5MjY3OTgwMA==&mid=209173393&idx=3&sn=649dac0dc2e8a5f50297c50a93b27de2)
