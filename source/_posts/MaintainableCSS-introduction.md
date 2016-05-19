@@ -6,7 +6,7 @@ category:
 
 > 这是一个系列，谈论所有有关编写可维护性CSS。
 > 翻译自：[MaintainableCSS](http://maintainablecss.com/)
-> 完整版：[http://owenyang0.github.io/maintainablecss-cn/chapters/introduction/](http://owenyang0.github.io/maintainablecss-cn/chapters/introduction/)
+> 完整版：[maintainablecss-cn/chapters/introduction/](http://owenyang0.github.io/maintainablecss-cn/chapters/introduction/)
 
 > **译者：**
 > <i class="fa fa-github-square" aria-hidden="true"></i> [Owen Yang](https://github.com/owenyang0)
