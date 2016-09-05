@@ -20,7 +20,7 @@ ThoughtWorks前端开发工程师，关注前端架构演进与其生态发展�
 - [Business English: Networking](https://www.coursera.org/learn/business-english-intro/)
 <div class="about__list-info">COURSERA<span class="about__list-desc"> | 29 Aug, 2016 - | </span><span class="about__status-doing">IN PROGRESS</span></div>
 - [Human-Centered Design: an Introduction](https://www.coursera.org/learn/human-computer-interaction/)
-<div class="about__list-info">COURSERA<span class="about__list-desc"> | 8 Aug, 2016 - | </span><span class="about__status-doing">IN PROGRESS</span></div>
+<div class="about__list-info">COURSERA<span class="about__list-desc"> | 8 Aug, 2016 - 4 Sep, 2016 | </span><span class="about__status-done">DONE</span></div>
 - [Understanding IELTS: Techniques for English Language Tests](https://www.futurelearn.com/courses/understanding-ielts)
 <div class="about__list-info">FUTURELEARN<span class="about__list-desc"> | 11 May, 2015 - 11 June, 2015 | </span><span class="about__status-done">DONE</span></div>
 
