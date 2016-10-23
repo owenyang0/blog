@@ -19,6 +19,8 @@ ThoughtWorks前端开发工程师，关注前端架构演进与其生态发展�
 <div class="about__list-info">UDACITY<span class="about__list-desc"> | 29 Aug, 2016 - | </span><span class="about__status-doing">IN PROGRESS</span></div>
 - [Business English: Networking](https://www.coursera.org/learn/business-english-intro/)
 <div class="about__list-info">COURSERA<span class="about__list-desc"> | 29 Aug, 2016 - | </span><span class="about__status-doing">IN PROGRESS</span></div>
+- [Foundations of Objective-C App Development](https://www.coursera.org/learn/objective-c)
+<div class="about__list-info">COURSERA<span class="about__list-desc"> | 17 OCT, 2016 - 23 OCT, 2016 | </span><span class="about__status-done">DONE</span></div>
 - [Human-Centered Design: an Introduction](https://www.coursera.org/learn/human-computer-interaction/)
 <div class="about__list-info">COURSERA<span class="about__list-desc"> | 8 Aug, 2016 - 4 Sep, 2016 | </span><span class="about__status-done">DONE</span></div>
 - [Understanding IELTS: Techniques for English Language Tests](https://www.futurelearn.com/courses/understanding-ielts)
